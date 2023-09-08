@@ -2,7 +2,7 @@
 	"manifest_version": 1,
 	"id": "com.github.eqs.joplin-plugin-cjk-breaks",
 	"app_min_version": "2.12",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"name": "joplin-plugin-cjk-breaks",
 	"description": "Suppress linebreaks between CJK characters",
 	"author": "eqs",
